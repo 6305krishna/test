@@ -1,0 +1,174 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+.main {
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar {
+  background-color: rgb(255, 255, 255);
+  width: 80%;
+  padding: 0;
+}
+
+.ima {
+  width: 7rem;
+}
+
+.navbar-nav {
+  padding-top: 3px;
+
+}
+
+
+.nav-link {
+  width: 9rem;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.hero {
+  display: flex;
+  height: 60vh;
+}
+.hero-1 {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+
+
+  flex-direction: column;
+}
+.pek {
+  width: 36rem;
+  padding-left: 10rem;
+  padding-bottom: 0rem;
+}
+.hek {
+  font-weight: bold;
+  width: 36rem;
+  padding-left: 10rem;
+  padding-bottom: 1rem;
+}
+.hero-2 {
+  flex: 1;
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: content;
+}
+.bb {
+  padding-left: 10rem;
+}
+
+.btn {
+  width: 9rem;
+  height: 2rem;
+  margin-top: 7px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+}
+.hero {
+  height: 80vh;
+}
+.cont {
+  position: absolute;
+  bottom: 3rem;
+  left: 3rem;
+  width: 55%;
+}
+.cont2 {
+  width: 40%;
+  bottom: 3rem;
+  left: 8rem;
+  position: absolute;
+}
+
+.client {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding-bottom: 4rem;
+  justify-content: space-evenly;
+}
+
+.cli {
+  width: 9%;
+}
+.hmain {
+  padding-top: 4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.features {
+  color: white;
+  background: rgb(101, 122, 216);
+  height: 100vh;
+}
+
+.cipla {
+  padding-top: 5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.cipla-1 {
+  width: 19rem;
+}
+.ciplaimg {
+  padding-bottom: 2rem;
+  width: 25%;
+}
+.hmek {
+  width: 28rem;
+  text-align: center;
+}
+
+.sign {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.imwaka {
+  width: 24rem;
+  padding-bottom: 4rem;
+  padding-top: 4rem;
+}
+.waka {
+  font-weight: bold;
+  width: 30rem;
+  padding-top: 2rem;
+}
+
+.wakadiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.beu {
+  width: 1.4rem;
+  background-color: lightblue;
+  text-align: center;
+  border-radius: 50%;
+  margin-right: 1rem;
+}
+.waka-1-1 {
+  padding-top: 2rem;
+}
+.waka-11 {
+  padding: 0.3rem;
+  display: flex;
+}
